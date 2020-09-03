@@ -1,9 +1,7 @@
-# ReactJs-github-auth
+# ReactJs-github-Login
 Login With Github in React-js
-# gitLogin
 
-steps to run this app :- 
-2 git clone https://github.com/kaurpreet3857/gitLogin.git
-3 cd gitLogin
-4 npm install
-5 npm start
+<h3> steps to run this app:</h3>
+1 git clone<br/>
+2 npm install<br/>
+3 npm start<br/>
